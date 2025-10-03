@@ -1,7 +1,7 @@
 # DelebiKeyViewer
 ![C#](https://img.shields.io/badge/Lang-Csharp-c9c8e4.svg?&logo=c#)
 ![Visual Studio](https://img.shields.io/badge/IDE-Visual_Studio-A8B9CC?style=flat&logo=C&logoColor=white)
-![Download](https://img.shields.io/github/downloads/JofoDuh/YoonKeyViewer/total)
+![Download](https://img.shields.io/github/downloads/JofoDuh/DelebiKeyViewer/total)
 
 ---
 ### 소개 Information
